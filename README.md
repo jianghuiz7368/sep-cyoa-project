@@ -3,7 +3,7 @@
 
 ## Choose Your Own Adventure!
 
-### Description 
+### Choose you path!!!
 In this project we had to create a "choose your own adventure". The main goal of this project 
 is for us to practice collabration, so we had to work on this project together with our group mates.
 
